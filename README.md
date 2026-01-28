@@ -12,13 +12,27 @@ My name is Nicole Valverde and I am a student nearing graduation with a strong b
 
 ### Main projects
 
+## Main Projects
 
-| Project | Brief Description | Link |
-|--------|-------------------|------|
-| 🤖 RoboticTEC Distributed System | Implemented a hardware prototype with a custom Linux Device Driver and developed a secure load distribution algorithm using OpenMPI with encrypted data. | [Repository](https://github.com/EmilioTec10/Proyecto2-Operativos) |
-| 📅 MusicTREE App (SQL / Angular) | Built a web application for a fake company using PostreSQL Server as the database and Angular for the frontend. | [Repository](https://github.com/Katharsis0/MusicTree) |
-| 🚗 Yocto-Based Remote Control System | Designed a custom embedded system for remote vehicle control via a web server, using the Yocto Project framework for Linux image generation. | [Repository](https://github.com/kunZhen/Proyecto1-Empotrados) |
-| 🎧 SoC Design for Audio Player | Modeled a minimal System-on-Chip (SoC) for a portable audio player, applying system-level design methodologies and bare-metal programming. | [Repository](https://github.com/nicval2/Proyecto2-Empotrados) |
+### 🔧 Hardware & Embedded Systems Projects
+
+| Project | Brief Description | Languages | Link |
+|-------|------------------|--------------|------|
+| 🚗 Yocto-Based Remote Control System | Custom embedded Linux system for remote vehicle control via a web server using the Yocto Project. | C, Yocto, Embedded Linux, Networking | [Repository](https://github.com/kunZhen/Proyecto1-Empotrados) |
+| 🎧 SoC Design for Audio Player | Minimal System-on-Chip (SoC) modeled for a portable audio player using bare-metal programming. | C, SystemVerilog, SoC Design | [Repository](https://github.com/nicval2/Proyecto2-Empotrados) |
+| 🧠 ASIP for Image Interpolation | Custom ASIP designed to optimize bilinear image interpolation using a personalized ISA. | SystemVerilog, Custom ISA, FPGA | [Repository](https://github.com/nicval2/nicval2-nvalverde_computer_architecture_1_2024_s2/tree/Proyecto-1) |
+| 🧮 Word Histogram in Assembly | Assembly-based system to analyze text files and generate word frequency histograms. | Assembly (x86) | [Repository](https://github.com/nicval2/nicval2-nvalverde_computer_architecture_1_2024_s2/tree/Proyecto-2) |
+| 🐾 Automatic Pet Feeder | Embedded system that automates pet feeding using ultrasonic sensors, servomotors, and alerts. | C/C++ | [Repository](https://github.com/nicval2/nicval2-nvalverde_computer_architecture_1_2024_s2/tree/Proyecto-3) |
+| 🤖 RoboticTEC Distributed System | Hardware prototype with a custom Linux Device Driver and a secure load distribution algorithm using OpenMPI with encrypted data. | C, Linux, Device Drivers | [Repository](https://github.com/nicval2/Proyecto1-Operativos) |
+
+### 💻 Software Projects
+
+| Project | Brief Description | Languages | Link |
+|-------|------------------|--------------|------|
+| 🎮 Monkey Kong | 2D arcade-style video game inspired by Donkey Kong (1981), developed with Pygame. | Python, Pygame | [Repository](https://github.com/nicval2/CE1102-MonkeyKong) |
+| 🚢 Battleship| Console-based implementation of the classic Battleship game, focusing on algorithms, control structures, and basic data structures, developed with Pygame. | Python | [Repository](https://github.com/nicval2/CE1102-Battleship) |
+| 🎵 CE Music Player | Desktop music player with user and library management, integrated with Arduino-based physical controls. | Java, Arduino, Serial Communication | [Repository](https://github.com/nicval2/CEMusicPlayer) |
+| 📅 MusicTREE App | Full-stack web application for a fictional company using PostgreSQL and Angular. | Angular, TypeScript, PostgreSQL, SQL | [Repository](https://github.com/Katharsis0/MusicTree) |
 
 
 
