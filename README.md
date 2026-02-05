@@ -28,7 +28,6 @@ My name is Nicole Valverde and I am a student nearing graduation with a strong b
 | Project | Brief Description | Languages | Link |
 |-------|------------------|--------------|------|
 | 🎮 Monkey Kong | 2D arcade-style video game inspired by Donkey Kong (1981), developed with Pygame. | Python, Pygame | [Repository](https://github.com/nicval2/CE1102-MonkeyKong) |
-| 🚢 Battleship| Console-based implementation of the classic Battleship game, focusing on algorithms, control structures, and basic data structures, developed with Pygame. | Python | [Repository](https://github.com/nicval2/CE1102-Battleship) |
 | 🎵 CE Music Player | Desktop music player with user and library management, integrated with Arduino-based physical controls. | Java, Arduino, Serial Communication | [Repository](https://github.com/nicval2/CEMusicPlayer) |
 | 📅 MusicTREE App | Full-stack web application for a fictional company using PostgreSQL and Angular. | Angular, TypeScript, PostgreSQL, SQL | [Repository](https://github.com/Katharsis0/MusicTree) |
 
