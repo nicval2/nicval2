@@ -16,7 +16,6 @@ My name is Nicole Valverde and I am a student nearing graduation with a strong b
 
 | Project | Brief Description | Languages | Link |
 |-------|------------------|--------------|------|
-| 🚗 Yocto-Based Remote Control System | Custom embedded Linux system for remote vehicle control via a web server using the Yocto Project. | C, Yocto, Embedded Linux, Networking | [Repository](https://github.com/kunZhen/Proyecto1-Empotrados) |
 | 🎧 SoC Design for Audio Player | Minimal System-on-Chip (SoC) modeled for a portable audio player using bare-metal programming. | C, SystemVerilog, SoC Design | [Repository](https://github.com/nicval2/Proyecto2-Empotrados) |
 | 🧠 ASIP for Image Interpolation | Custom ASIP designed to optimize bilinear image interpolation using a personalized ISA. | SystemVerilog, Custom ISA, FPGA | [Repository](https://github.com/nicval2/nicval2-nvalverde_computer_architecture_1_2024_s2/tree/Proyecto-1) |
 | 🧮 Word Histogram in Assembly | Assembly-based system to analyze text files and generate word frequency histograms. | Assembly (x86) | [Repository](https://github.com/nicval2/nicval2-nvalverde_computer_architecture_1_2024_s2/tree/Proyecto-2) |
